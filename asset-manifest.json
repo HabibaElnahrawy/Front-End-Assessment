@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Front-End-Assessment/static/css/main.14f0de3c.css",
+    "main.js": "/Front-End-Assessment/static/js/main.868e2399.js",
+    "index.html": "/Front-End-Assessment/index.html",
+    "main.14f0de3c.css.map": "/Front-End-Assessment/static/css/main.14f0de3c.css.map",
+    "main.868e2399.js.map": "/Front-End-Assessment/static/js/main.868e2399.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14f0de3c.css",
+    "static/js/main.868e2399.js"
+  ]
+}
