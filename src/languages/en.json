@@ -1,0 +1,50 @@
+{
+    "signin.btn" : "Sign In" ,
+    "signup.btn" : "Sign Up" ,
+    "TrackShipment" : "Track Shipment" ,
+    "ShipmentNumber": "Shipment number {ShipmentNumber}",
+    "LastUpdate": " Last update ",
+    "VendorName": " Vendor Name ",
+    "DeliveryTime": " Delivery Time ",
+
+
+    "Products":"Products",
+    "Integrations":"Integrations",
+    "UseCases":"UseCases",
+    "Pricing":"Pricing",
+    "Blog":"Blog",
+
+    "ShipmentLocation":"Shipment Location",
+    "ShipmentDetails":"Shipment Details",
+
+    "Date":"Date",
+    "Time":"Time",
+    "Details":"Details",
+    "branch":"Branch",
+    "ask":"Is there a problem with your shipment?!",
+    
+    "askBtn":"Report a problem",
+    "shipmentCreated":"Created",
+    "receivedFromVendor":"Received from the merchant",
+    "shipmentOutforDelivery":"Out for delivery",
+    "delivered":"Delivered ",
+
+
+    "TICKET_CREATED":"TICKET CREATED",
+    "PACKAGE_RECEIVED":"PACKAGE RECEIVED",
+    "IN_TRANSIT":"IN TRANSIT",
+    "OUT_FOR_DELIVERY":"OUT FOR DELIVERY",
+    "WAITING_FOR_CUSTOMER_ACTION":"WAITING FOR CUSTOMER ACTION",
+    "DELIVERED_TO_SENDER":"DELIVERED TO SENDER",
+    "NOT_YET_SHIPPED":"NOT YET SHIPPED",
+    "CANCELLED":"CANCELLED",
+    "DELIVERED":"DELIVERED",
+
+
+    "1ex":"Retry delivery - the customer is not in the address.",
+    "3ex":"Postponed - the customer requested postponement for another day.",
+    "7ex":"Customer is not answering"
+
+   
+  
+  }
