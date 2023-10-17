@@ -1,3 +1,14 @@
+
+![1](https://github.com/HabibaElnahrawy/Front-End-Assessment/assets/87455510/504bf3e7-15d0-4c86-b7c4-c276451de201)
+![2](https://github.com/HabibaElnahrawy/Front-End-Assessment/assets/87455510/9e1a7022-b235-4fdc-9022-7bbe276cfa71)
+![8](https://github.com/HabibaElnahrawy/Front-End-Assessment/assets/87455510/910b705a-589d-4bfc-9d09-af898c2614b0)
+![7](https://github.com/HabibaElnahrawy/Front-End-Assessment/assets/87455510/fe6ba105-2409-407b-8f38-ace791681f20)
+![6](https://github.com/HabibaElnahrawy/Front-End-Assessment/assets/87455510/d72245f2-927d-4e49-9d24-d1d8b2867f87)
+![4](https://github.com/HabibaElnahrawy/Front-End-Assessment/assets/87455510/46c6f289-d1e6-4299-969f-7d8c0fe8938a)
+
+![3](https://github.com/HabibaElnahrawy/Front-End-Assessment/assets/87455510/3fe656fd-7b4a-4f57-9a0e-2314c3d5f15e)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
